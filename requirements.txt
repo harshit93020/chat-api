@@ -1,0 +1,25 @@
+# Core Web Framework
+fastapi==0.99.1
+uvicorn==0.23.2
+
+# Database
+motor==3.2.0
+pymongo==4.4.1
+
+# LLM Integration
+google-generativeai==0.8.4
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==1.10.13
+typing-extensions==4.7.1
+
+# Additional Libraries
+python-multipart==0.0.6
+httpx==0.24.1
+
+# Development & Testing
+pytest==7.4.0
+
+flask
+gunicorn
